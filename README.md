@@ -1,6 +1,6 @@
 # Today's Meal
 
-![Today's Meal](https://raw.githubusercontent.com/[your-username]/today-s-meal/main/public/assets/your-project-image.png)
+![Today's Meal](https://ahmedabdodev.github.io/Portfolio/assets/today-is-meal-DgjTk2Dt.png)
 
 A simple and elegant web application built with **Next.js** and **Tailwind CSS**. It helps users decide what to eat by providing a random meal suggestion, complete with an image, a brief description, and a fun fact.
 
