@@ -51,7 +51,7 @@ This allows the app to provide a new, unique meal suggestion every time you clic
 
 ## About the Author
 
-This project was created by **[Your Name]**.
+This project was created by **Ahmed Abd El-Latif Mostafa**.
 
 You can find me on:
 - [**GitHub**](https://github.com/AhmedAbdoDev)
