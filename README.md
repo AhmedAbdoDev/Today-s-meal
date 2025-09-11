@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Today's Meal
+
+![Today's Meal](https://raw.githubusercontent.com/[your-username]/today-s-meal/main/public/assets/your-project-image.png)
+
+A simple and elegant web application built with **Next.js** and **Tailwind CSS**. It helps users decide what to eat by providing a random meal suggestion, complete with an image, a brief description, and a fun fact.
+
+## Live Demo
+
+- [View Live Demo](https://today-is-meal-8ajlayc3n-3bkrenodevs-projects.vercel.app/)
+
+---
+
+## Features
+
+- **Random Suggestions:** Get a new meal idea with every click.
+- **Attractive UI:** Clean and responsive design suitable for all devices.
+- **Rich Data:** Each suggestion comes with the meal's name, a description, and a high-quality image.
+
+---
+
+## Technologies Used
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ## Getting Started
 
-First, run the development server:
+1.  **Clone the repository:**
+    `git clone https://github.com/AhmedAbdoDev/Today-s-meal.git`
+2.  **Navigate to the directory:**
+    `cd today-s-meal`
+3.  **Install dependencies:**
+    `npm install`
+4.  **Run the local server:**
+    `npm run dev`
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## API
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The project uses the free **[TheMealDB](https://www.themealdb.com/api.php)** API to fetch a random meal on each request. The main API endpoint used is for a random meal:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+`https://www.themealdb.com/api/json/v1/1/random.php`
 
-## Learn More
+This allows the app to provide a new, unique meal suggestion every time you click the button.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## About the Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project was created by **[Your Name]**.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can find me on:
+- [**GitHub**](https://github.com/AhmedAbdoDev)
+- [**LinkedIn**](https://www.linkedin.com/in/3bkrenodev)
+- [**Portfolio**](https://ahmedabdodev.github.io/Portfolio)
